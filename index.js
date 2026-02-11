@@ -1,3 +1,6 @@
+// index
+// - Purpose: Expo entry point. Registers the root component for the app runtime environment.
+
 import { registerRootComponent } from 'expo';
 
 import App from './App';
